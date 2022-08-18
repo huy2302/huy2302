@@ -21,7 +21,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/youtube.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/messenger.svg" />
 
-
+<br>
 
 ### Libraries and Frameworks:
 
@@ -37,7 +37,7 @@
 
 ---
 
-### Lenguages Activity over All Time
+### Languages Activity over All Time
 
 <img src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/3582eaee-a059-4ed1-97b0-088e500d9aa0.svg" />
 
