@@ -3,6 +3,11 @@
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 
+### Spotify Playing 🎧
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f774wdfv06s93om4vy88x1dcd)
+
+---
 
 ### Tools:
 
