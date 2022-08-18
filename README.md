@@ -3,11 +3,6 @@
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 
-### Spotify Playing 🎧
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f774wdfv06s93om4vy88x1dcd)
-
----
 
 ### Tools:
 
@@ -25,13 +20,16 @@
 
 ### Libraries and Frameworks:
 
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/react.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/json.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/bootstrap.svg" />
+
 <br>
 
 
 ### Databases:
 
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
+
 <br>
 <br>
 
@@ -56,4 +54,4 @@
 ### Profile Visits:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=baitaptoan53.baitaptoan53&left_color=green&right_color=red)
 
-[facebook]: https://www.facebook.com/xuanngoc.22
+[facebook]: https://www.facebook.com/panhy2002/
