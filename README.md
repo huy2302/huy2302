@@ -1,4 +1,4 @@
-## Hi guys, I'm Huydevtr 👋
+## Hi guys, I'm Vietdovolep 👋
 ### Welcome to my GitHub profile!
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
@@ -28,8 +28,8 @@ I'm a passionate developer from Vietnam 🇻🇳, who loves writing clean code, 
 ---
 
 ### 📫 Let's connect!
-- 📘 Facebook: [facebook.com/panhy2002](https://www.facebook.com/panhy2002/)
-- 📧 Email: huydevtr@gmail.com
+- 📘 Facebook: [facebook.com](https://www.facebook.com/viet.vu.50509#)
+- 📧 Email: vuduyviet280902@gmail.com
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
